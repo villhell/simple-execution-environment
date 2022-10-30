@@ -14,4 +14,7 @@ npx tsc -w
 
 # javascript から typescript へ
 
-ts-migrate
+https://github.com/airbnb/ts-migrate
+
+npm i -g ts-migrate
+npx ts-migrate-full src

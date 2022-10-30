@@ -1,7 +1,5 @@
-import { testFunc } from './src/util';
-
 const main = () => {
-  testFunc();
+  window.alert('testFunction!');
 };
 
 main();
